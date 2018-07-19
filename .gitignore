@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/SecondCoreRepo/.vs/SecondCoreRepo/v15
+/SecondCoreRepo/SecondCoreRepo/bin/Debug/netcoreapp2.0
+/SecondCoreRepo/SecondCoreRepo/obj/Debug/netcoreapp2.0
+/SecondCoreRepo/SecondCoreRepo/obj
